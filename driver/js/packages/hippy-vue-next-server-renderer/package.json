@@ -31,7 +31,7 @@
     "@vue/shared": "3.4.32"
   },
   "devDependencies": {
-    "@vue/server-renderer": "3.4.32",
+    "@vue/server-renderer": "3.5.8",
     "@vue/runtime-core": "3.4.32",
     "@vue/shared": "3.4.32"
   },
