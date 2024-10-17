@@ -20,7 +20,7 @@
     "@hippy/vue-router-next-history": "0.0.1",
     "@hippy/web-renderer": "latest",
     "@vue/runtime-core": "3.4.32",
-    "@vue/shared": "3.4.32",
+    "@vue/shared": "3.5.8",
     "vue": "3.4.32",
     "vue-router": "^4.0.12"
   },
