@@ -17,7 +17,7 @@
     "webpack"
   ],
   "dependencies": {
-    "loader-utils": "^1.4.1"
+    "loader-utils": "^1.4.2"
   },
   "devDependencies": {
     "@types/loader-utils": "^2.0.6",
